@@ -44,10 +44,12 @@
   </p>
 
   <h2 style="color:#b4befe;">📊 GitHub Stats</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=skythebro&theme=tokyonight&hide_border=true&stroke=89b4fa&ring=cba6f7&fire=cba6f7&currStreakLabel=b4befe" />
-<img src="https://github-readme-stats.vercel.app/api?username=skythebro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skythebro&theme=tokyonight&hide_border=true&layout=compact&langs_count=12" />
   
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=skythebro&theme=tokyonight&hide_border=true&stroke=89b4fa&ring=cba6f7&fire=cba6f7&currStreakLabel=b4befe" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skythebro&theme=tokyonight&hide_border=true&layout=compact&langs_count=12" />
+</div>  
 
   <br><br>
 
