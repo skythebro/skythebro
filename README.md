@@ -20,7 +20,7 @@
     Backend is my home, but I'll gladly build you a full-stack app if needed.<br><br>
     I disappear for weeks into private repos creating mods, tools that add QoL or "extra features" for singleplayer games (totally legal, promise 😉).<br><br>
     When I'm not shipping features or gaming, I'm probably decompiling something in dnSpy or writing another mod for a Unity game, or working on my own game.<br><br>
-    Current status: working on [Tainted Grail: FoA](https://www.nexusmods.com/profile/therealskybro/mods?gameId=5886).
+    Current status: working on <a href="https://www.nexusmods.com/profile/therealskybro/mods?gameId=5886">Tainted Grail: FoA</a>.
   </p>
 
   <h2 style="color:#b4befe;">🛠 Tech Stack & Tools</h2>
