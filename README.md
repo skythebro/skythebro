@@ -20,7 +20,7 @@
     Backend is my home, but I'll gladly build you a full-stack app if needed.<br><br>
     I disappear for weeks into private repos creating mods, tools that add QoL or "extra features" for singleplayer games (totally legal, promise 😉).<br><br>
     When I'm not shipping features or gaming, I'm probably decompiling something in dnSpy or writing another mod for a Unity game, or working on my own game.<br><br>
-    Current status: cooking in private repos. public drop incoming when they're stable enough not to summon demons.
+    Current status: working on [Tainted Grail: FoA](https://www.nexusmods.com/profile/therealskybro/mods?gameId=5886).
   </p>
 
   <h2 style="color:#b4befe;">🛠 Tech Stack & Tools</h2>
@@ -42,14 +42,6 @@
       <img src="https://skillicons.dev/icons?i=vscode,rider,idea,webstorm,pycharm,androidstudio&theme=dark" />
     </a>
   </p>
-
-  <h2 style="color:#b4befe;">📊 GitHub Stats</h2>
-  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=skythebro&theme=tokyonight&hide_border=true&stroke=89b4fa&ring=cba6f7&fire=cba6f7&currStreakLabel=b4befe" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skythebro&theme=tokyonight&hide_border=true&layout=compact&langs_count=12" />
-</div>  
 
   <br><br>
 
