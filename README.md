@@ -7,43 +7,62 @@
   <img src="https://github.com/skythebro.png" width="160" style="border-radius:50%; border:6px solid #89b4fa; box-shadow: 0 0 20px #89b4fa50;">
 
   <h1 style="color:#cba6f7; margin:20px 0 5px 0;">Bryan Cant</h1>
-  <h3 style="color:#94e2d5; margin:0;">aka SkyBreeze • Full-Stack Dev • Reverse Engineer • Game Modder</h3>
+  <h3 style="color:#94e2d5; margin:0;">aka SkyBreeze • Backend-leaning Full-Stack • Game Modder • Reverse Engineer</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=89B4FA&background=16213E&vCenter=true&center=true&width=950&lines=Backend-leaning+Full-Stack+Developer;Exorcising+bugs+from+code+👻;Reverse+engineering+games+at+3AM;Saving+people.+Hunting+things.+The+family+business.;C%23+%7C+Java+%7C+Python+%7C+React+%7C+Unity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=89B4FA&background=16213E&vCenter=true&center=true&width=950&lines=Backend-leaning+Full-Stack+Developer;C%23+%7C+.NET+%7C+Java+%7C+Python+%7C+TypeScript;Game+modding+%26+reverse+engineering;Saving+people.+Hunting+things.+The+family+business." alt="Typing SVG" />
 
   <br>
 
   <img src="https://komarev.com/ghpvc/?username=skythebro&label=Profile+Views&color=89b4fa&style=for-the-badge" />
 
   <p style="max-width:950px; color:#94e2d5; line-height:1.7;">
-    Motivated developer with an unhealthy obsession for reverse engineering and game internals.<br>
-    Backend is my home, but I'll gladly build you a full-stack app if needed.<br><br>
-    I disappear for weeks into private repos creating mods, tools that add QoL or "extra features" for singleplayer games (totally legal, promise 😉).<br><br>
-    When I'm not shipping features or gaming, I'm probably decompiling something in dnSpy or writing another mod for a Unity game, or working on my own game.<br><br>
-    Current status: Working on <a href="https://www.nexusmods.com/profile/therealskybro/mods?gameId=5886">Tainted Grail: FoA</a> mods.
+    Backend-leaning full-stack developer who also ships Unity / BepInEx mods and digs into game internals with dnSpy.<br>
+    Comfortable with <b>C# / .NET</b>, <b>Java</b>, <b>Python</b>, and <b>TypeScript / React</b>, plus Git and Docker basics.<br><br>
+    Org / school / release work lives under <a href="https://github.com/SkyKDG"><b>SkyKDG</b></a> — check that profile for public workshop downloads and private workspaces.
   </p>
 
-  <h2 style="color:#b4befe;">🛠 Tech Stack & Tools</h2>
+  <h2 style="color:#b4befe;">🛠 Skills</h2>
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,php&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,ts,react&theme=dark" />
     </a>
     <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&theme=dark" />
-    </a>
-    <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,docker,git,powershell,unity,godot&theme=dark" />
-    </a>
-    <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,rider,idea,webstorm,pycharm,androidstudio&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,docker,unity,vscode&theme=dark" />
     </a>
   </p>
 
+  <p style="max-width:950px; color:#a6adc8; line-height:1.6;">
+    <b style="color:#cba6f7;">Core:</b> C# / .NET · Java · Python · TypeScript / React · Git · Docker (basics)<br>
+    <b style="color:#cba6f7;">Modding / RE:</b> Unity · BepInEx · dnSpy
+  </p>
+
+  <h2 style="color:#b4befe;">📦 Highlights / Shipped</h2>
+
+  <p style="max-width:950px; color:#94e2d5; line-height:1.8; text-align:left; display:inline-block;">
+    <b style="color:#89b4fa;">Nexus</b> — <a href="https://www.nexusmods.com/profile/therealskybro/mods?gameId=5886">therealskybro</a> · ~<b>50.8k</b> unique downloads<br>
+    &nbsp;&nbsp;FoA: <b>Avalon Mod Manager</b> ~19k · <b>Better Movement</b> ~15k · <b>Wyrd Sight</b> ~12k · <b>Better UI</b> ~10k<br><br>
+    <b style="color:#89b4fa;">Thunderstore</b> — Skies<br>
+    &nbsp;&nbsp;<b>BloodRefill</b> ~10k · <b>ResourceStashWithdrawal</b> ~11k · <b>PotionsHaveContainers</b> ~6k · <b>VComforts</b> ~2.8k<br><br>
+    <b style="color:#89b4fa;">Icarus Workshop</b> — public releases:<br>
+    &nbsp;&nbsp;<a href="https://github.com/SkyKDG/imm-workshop-releases">SkyKDG/imm-workshop-releases</a><br><br>
+    <span style="color:#a6adc8;">More WIP in private repos.</span>
+  </p>
+
   <br><br>
+
+  <p>
+    <a href="https://github.com/SkyKDG">
+      <img src="https://img.shields.io/badge/SkyKDG-org%20profile-cba6f7?style=for-the-badge&logo=github&logoColor=white" alt="SkyKDG" />
+    </a>
+    &nbsp;
+    <a href="https://www.nexusmods.com/profile/therealskybro/mods?gameId=5886">
+      <img src="https://img.shields.io/badge/Nexus-therealskybro-89b4fa?style=for-the-badge" alt="Nexus" />
+    </a>
+  </p>
+
+  <br>
 
   <p style="color:#74c7ab;">
     <i>"Driver picks the music, shotgun shuts his cakehole."<br>
