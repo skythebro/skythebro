@@ -6,7 +6,7 @@
 
 ### Sky · Junior software engineer · Antwerp, Belgium
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=89B4FA&center=true&vCenter=true&width=760&lines=C%23+%C2%B7+.NET+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Python+%C2%B7+Rust;Game+mods+with+57k%2B+downloads+on+Nexus;Reverse+engineering+%C2%B7+desktop+tools+%C2%B7+web;Saving+people.+Hunting+things.+The+family+business." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=89B4FA&center=true&vCenter=true&width=760&lines=C%23+%C2%B7+.NET+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Python+%C2%B7+Rust;Game+mods+with+60k%2B+downloads+on+Nexus;Reverse+engineering+%C2%B7+desktop+tools+%C2%B7+web;Saving+people.+Hunting+things.+The+family+business." alt="Typing SVG" />
 
 I build software people actually use: game mods, desktop tools and web apps.<br>
 I've worked with C# on logistics data, shipped mods to tens of thousands of players, and built product UIs for school and side projects.
@@ -14,7 +14,7 @@ I've worked with C# on logistics data, shipped mods to tens of thousands of play
 **Open to junior software, full-stack, Java, .NET or React roles · available now · hybrid is fine**
 
 [![Portfolio](https://img.shields.io/badge/portfolio-skythebro.github.io-94e2d5?style=for-the-badge&logo=githubpages&logoColor=white)](https://skythebro.github.io/bryan-cant-portfolio/)
-[![Nexus](https://img.shields.io/badge/Nexus-~57.5k_unique_DLs-cba6f7?style=for-the-badge)](https://www.nexusmods.com/profile/therealskybro/mods)
+[![Nexus](https://img.shields.io/badge/Nexus-~60.4k_unique_DLs-cba6f7?style=for-the-badge)](https://www.nexusmods.com/profile/therealskybro/mods)
 [![Email](https://img.shields.io/badge/email-bryancant@live.be-89b4fa?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:bryancant@live.be)
 
 </div>
@@ -41,26 +41,28 @@ I've worked with C# on logistics data, shipped mods to tens of thousands of play
 
 | Mod | What it does | Downloads |
 | --- | --- | --- |
-| [Avalon Mod Manager](https://www.nexusmods.com/taintedgrailthefallofavalon/mods/90) | In-game Options → MODS tab; auto-discovers BepInEx config so players never edit .cfg files | ~20.9k |
-| [Better Movement](https://www.nexusmods.com/taintedgrailthefallofavalon/mods/102) | Sprint, slide, dash and jump overhaul with presets | ~16.4k |
-| [Wyrd Sight](https://www.nexusmods.com/taintedgrailthefallofavalon/mods/94) | Glow and outlines for loot, containers, plants and ores, with live config reload | ~13.4k |
-| [Better UI](https://www.nexusmods.com/taintedgrailthefallofavalon/mods/111) | Inventory search, junk marking, rarity, tooltips, extra loadouts; keyboard and controller | ~11k |
-| [Better Mounts](https://www.nexusmods.com/taintedgrailthefallofavalon/mods/101) | Bonding, breeding, stables and a Mount tab on the character sheet | ~3.2k |
-| [Avalon Atlas](https://www.nexusmods.com/taintedgrailthefallofavalon/mods/265) | Minimap on the game's own maps, fog of war, F8 HUD layout editor | ~1.3k |
+| [Avalon Mod Manager](https://www.nexusmods.com/taintedgrailthefallofavalon/mods/90) | In-game Options → MODS tab; auto-discovers BepInEx config so players never edit .cfg files | ~21.8k |
+| [Better Movement](https://www.nexusmods.com/taintedgrailthefallofavalon/mods/102) | Sprint, slide, dash and jump overhaul with presets | ~17.1k |
+| [Wyrd Sight](https://www.nexusmods.com/taintedgrailthefallofavalon/mods/94) | Glow and outlines for loot, containers, plants and ores, with live config reload | ~14k |
+| [Better UI](https://www.nexusmods.com/taintedgrailthefallofavalon/mods/111) | Inventory search, junk marking, rarity, tooltips, extra loadouts; keyboard and controller | ~11.5k |
+| [Better Mounts](https://www.nexusmods.com/taintedgrailthefallofavalon/mods/101) | Bonding, breeding, stables and a Mount tab on the character sheet | ~3.3k |
+| [Avalon Atlas](https://www.nexusmods.com/taintedgrailthefallofavalon/mods/265) | Minimap on the game's own maps, fog of war, F8 HUD layout editor | ~1.6k |
 
 Also: [Appearance Mirror](https://www.nexusmods.com/taintedgrailthefallofavalon/mods/313) and [Interior Bonfire](https://www.nexusmods.com/taintedgrailthefallofavalon/mods/314).
 
 **Other games and tools**
 
+- **[Nestmates](https://github.com/skythebro/Nestmates)** ([Nexus](https://www.nexusmods.com/ironnest/mods/90)): online co-op for *IRON NEST: Heavy Turret Simulator*. Up to five players crew one turret over Steam, with every gun, lever, dial and enemy synced and join-in-progress. Host-authoritative, C# on BepInEx 6 (IL2CPP), open source under MIT.
 - **[NMS.rs](https://github.com/skythebro/NMS.rs)** ([Nexus](https://www.nexusmods.com/nomanssky/mods/4600)): a Quality of Life Pack for *No Man's Sky*. It has a Rust mod loader, QoL mods (bigger item grids, transfer-all, craft from storage, …) and a manager with live in-game switches.
 - **[Icarus Workshop](https://github.com/SkyKDG/imm-workshop-releases/releases/latest)**: a Windows mod manager for *Icarus*, plus a dedicated-server agent. Python + PySide6, shipped through GitHub Actions.
 - **[Riding Club Championships Server Emulator](https://github.com/skythebro/Riding-Club-Championships-Server-Emulator)**: the official servers are offline, so I reverse-engineered them to make the game playable locally again.
+- **[StationeersXR](https://www.nexusmods.com/stationeers/mods/19)**: VR for *Stationeers*, made so my dad could play it in VR. Your hands follow the controllers, menus work with a laser pointer and your inventory sits on your wrist.
 - **[DYSMANTLE Save Editor](https://github.com/skythebro/DYSMANTLESaveEdit)**: a save editor in Python.
-- **Dying Light: The Beast**: [Expanded Inventory and Stacks](https://www.nexusmods.com/dyinglightthebeast/mods/863) and an early co-op mod. **Big Ambitions**: [LocalModBridge](https://www.nexusmods.com/bigambitions/mods/23). **Icarus**: [Take Home](https://www.nexusmods.com/icarus/mods/306).
+- **Dying Light: The Beast**: [Expanded Inventory and Stacks](https://www.nexusmods.com/dyinglightthebeast/mods/863) and an early co-op mod. **Big Ambitions**: [LocalModBridge](https://www.nexusmods.com/bigambitions/mods/23). **Icarus**: [Take Home](https://www.nexusmods.com/icarus/mods/306). **Plants vs. Zombies: Replanted**: [Seed Presets](https://www.nexusmods.com/plantsvszombiesreplanted/mods/13).
 
 **V Rising** on [Thunderstore](https://thunderstore.io/c/v-rising/p/Skies/) as team Skies (2023–2025, kept up to date through Gloomrot and 1.0)
 
-[BloodRefill](https://thunderstore.io/c/v-rising/p/Skies/BloodRefill/) ~10.6k · [ResourceStashWithdrawal](https://thunderstore.io/c/v-rising/p/Skies/ResourceStashWithdrawal/) ~11k · [PotionsHaveContainers](https://thunderstore.io/c/v-rising/p/Skies/PotionsHaveContainers/) ~6k · [VComforts](https://thunderstore.io/c/v-rising/p/Skies/VComforts/) ~3k
+[BloodRefill](https://thunderstore.io/c/v-rising/p/Skies/BloodRefill/) ~10.7k · [ResourceStashWithdrawal](https://thunderstore.io/c/v-rising/p/Skies/ResourceStashWithdrawal/) ~11.1k · [PotionsHaveContainers](https://thunderstore.io/c/v-rising/p/Skies/PotionsHaveContainers/) ~6.1k · [VComforts](https://thunderstore.io/c/v-rising/p/Skies/VComforts/) ~3.1k
 
 ## 💼 Experience
 
