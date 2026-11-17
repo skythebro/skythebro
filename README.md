@@ -58,7 +58,7 @@ Also: [Appearance Mirror](https://www.nexusmods.com/taintedgrailthefallofavalon/
 - **[Riding Club Championships Server Emulator](https://github.com/skythebro/Riding-Club-Championships-Server-Emulator)**: the official servers are offline, so I reverse-engineered them to make the game playable locally again.
 - **[StationeersXR](https://www.nexusmods.com/stationeers/mods/19)**: VR for *Stationeers*, made so my dad could play it in VR. Your hands follow the controllers, menus work with a laser pointer and your inventory sits on your wrist.
 - **[DYSMANTLE Save Editor](https://github.com/skythebro/DYSMANTLESaveEdit)**: a save editor in Python.
-- **Dying Light: The Beast**: [Expanded Inventory and Stacks](https://www.nexusmods.com/dyinglightthebeast/mods/863) and an early co-op mod. **Big Ambitions**: [LocalModBridge](https://www.nexusmods.com/bigambitions/mods/23). **Icarus**: [Take Home](https://www.nexusmods.com/icarus/mods/306). **Plants vs. Zombies: Replanted**: [Seed Presets](https://www.nexusmods.com/plantsvszombiesreplanted/mods/13).
+- **Dying Light: The Beast**: [Restored Land Co-op](https://www.nexusmods.com/dyinglightthebeast/mods/821) (up to four players, fully rebuilt in 2.0) and [Expanded Inventory and Stacks](https://www.nexusmods.com/dyinglightthebeast/mods/863). **Big Ambitions**: [LocalModBridge](https://www.nexusmods.com/bigambitions/mods/23). **Icarus**: [Take Home](https://www.nexusmods.com/icarus/mods/306). **Plants vs. Zombies: Replanted**: [Seed Presets](https://www.nexusmods.com/plantsvszombiesreplanted/mods/13).
 
 **V Rising** on [Thunderstore](https://thunderstore.io/c/v-rising/p/Skies/) as team Skies (2023–2025, kept up to date through Gloomrot and 1.0)
 
